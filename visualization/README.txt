@@ -1,0 +1,5 @@
+parallelCoordinate.m用于绘制平行坐标
+obj6文件夹里面放的是：algorithm1和algorithm2归一化的结果
+
+twoobj.m用于绘制其中两个目标的对比图（当然也可以画出好几代，观察变化）
+obj2文件夹里面放的是：algoArun1代表算法1第一次运行的结果（不用归一化）
